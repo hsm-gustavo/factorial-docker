@@ -1,0 +1,8 @@
+services:
+  factorial-cli:
+    build: .
+    container_name: factorial-cli
+    volumes:
+      - ./data:/app/data
+    stdin_open: true
+    tty: true
