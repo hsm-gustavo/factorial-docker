@@ -6,18 +6,6 @@ A aplicação tem como finalidade calcular o fatorial de um número fornecido pe
 
 ---
 
-## Sumário
-
-- [Descrição](#descrição)
-- [Funcionalidades](#funcionalidades)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Requisitos](#requisitos)
-- [Como Executar](#como-executar)
-- [Detalhes Técnicos](#detalhes-técnicos)
-- [Autores](#autores)
-
----
-
 ## Descrição
 
 Este projeto consiste em uma aplicação Node.js escrita em TypeScript que:
